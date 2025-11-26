@@ -10,7 +10,7 @@ Generate a markdown index from Jupyter notebook markdown cells.
 git clone https://github.com/ddzs1234/notebook-mapper.git
 ```
 
-Or just download `generate_notebook_index-2.py` directly.
+Or just download `generate_notebook_index.py` directly.
 
 ## Usage
 
